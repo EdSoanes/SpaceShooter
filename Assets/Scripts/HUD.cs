@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class HUD : MonoBehaviour
 {
@@ -165,7 +166,7 @@ public class HUD : MonoBehaviour
  
     public void GotoMainMenu()
     {
-        Application.LoadLevel("MenuScene");
+        SceneManager.LoadScene("MenuScene");
     }
 
     private void Pause()

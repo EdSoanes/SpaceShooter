@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.Collections;
+using UnityEngine.SceneManagement;
 
 public class MenuController : MonoBehaviour {
 
@@ -11,7 +12,7 @@ public class MenuController : MonoBehaviour {
         // Make the first button. If it is pressed, Application.Loadlevel (1) will be executed
         if (GUI.Button(new Rect(20, 40, 80, 20), "Start!"))
         {
-            Application.LoadLevel("GameScene");
+            SceneManager.LoadScene("GameScene");
         }
 
         // Make the second button.
