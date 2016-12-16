@@ -1,0 +1,65 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 9.0c [nvd3dum.dll 21.21.13.7570]
+    Renderer: NVIDIA GeForce GTX 970
+    Vendor:   NVIDIA
+    VRAM:     3072 MB (via DXGI)
+    Caps:     Shader=30 DepthRT=1 NativeDepth=1 NativeShadow=1 DF16=0 INTZ=1 NULL=1 RESZ=0 SlowINTZ=0 ATOC=1 BC4=1 BC5=1
+Begin MonoManager ReloadAssembly
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.121 seconds
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: D:\Google Drive\Projects\Unity\Space Shooter\SpaceShooter2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1200 59Hz; virtual: 1920x1200 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.933035 ms
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.197576 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.219707 ms (FindLiveObjects: 0.028545 ms CreateObjectMapping: 0.030470 ms MarkObjects: 0.155559 ms  DeleteObjects: 0.005131 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.309515 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.370776 ms (FindLiveObjects: 0.029508 ms CreateObjectMapping: 0.014754 ms MarkObjects: 0.106165 ms  DeleteObjects: 0.220349 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.228688 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.257875 ms (FindLiveObjects: 0.033036 ms CreateObjectMapping: 0.016678 ms MarkObjects: 0.199500 ms  DeleteObjects: 0.007697 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.357626 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.374304 ms (FindLiveObjects: 0.020848 ms CreateObjectMapping: 0.029187 ms MarkObjects: 0.108089 ms  DeleteObjects: 0.215537 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.218424 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 414.
+Total: 0.247932 ms (FindLiveObjects: 0.029187 ms CreateObjectMapping: 0.030470 ms MarkObjects: 0.182501 ms  DeleteObjects: 0.005452 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378474 ms
+
+Unloading 108 unused Assets to reduce memory usage. Loaded Objects now: 285.
+Total: 0.616784 ms (FindLiveObjects: 0.028545 ms CreateObjectMapping: 0.047148 ms MarkObjects: 0.228367 ms  DeleteObjects: 0.312722 ms)
+
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: a68 -> priority: 1 
